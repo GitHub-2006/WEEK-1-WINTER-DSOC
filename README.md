@@ -1,2 +1,2 @@
 # WINTER-DSOC
-The original files and the google colab code are here for credit card fraud detection system
+The projects for winter DSOC with relevant files and codes
